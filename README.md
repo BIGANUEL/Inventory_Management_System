@@ -23,6 +23,3 @@ This is a Django-based Inventory Management System that allows users to manage p
 - SQLite (default development database)
 
 ---
-
-## 📁 Project Structure
-
