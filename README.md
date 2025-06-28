@@ -1,4 +1,4 @@
-# Inventory_Management_System# 📦 Inventory Management System
+# 📦 Inventory Management System
 
 This is a Django-based Inventory Management System that allows users to manage products efficiently with CRUD operations (Create, Read, Update, Delete).
 
@@ -23,6 +23,3 @@ This is a Django-based Inventory Management System that allows users to manage p
 - SQLite (default development database)
 
 ---
-
-## 
-
